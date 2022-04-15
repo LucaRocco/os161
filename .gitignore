@@ -1,0 +1,6 @@
+doxygen
+tools
+toolbuild
+root
+.vscode
+os161-base-2.0.3/kern/compile
